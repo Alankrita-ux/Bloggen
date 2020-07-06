@@ -1,0 +1,65 @@
+/*-------navigation bar--------*/
+
+#nav-bar .navbar-brand {
+    margin-left: 100px;
+}
+
+#nav-bar ul li a.nav-link{
+    margin-left: 30px; 
+    color: grey;
+}
+
+#nav-bar .fa-user{
+    margin-right: 5px;
+}
+
+#nav-bar .fa-caret-down{
+    margin-left: 5px;
+}
+
+
+#nav-bar .fa-user-times{
+    margin-right: 5px;
+}
+
+#nav-bar .navbar-nav{
+    margin-right: 50px;
+    color: grey;
+}
+
+
+#nav-bar ul li.nav-item:hover{
+    color: #fff;
+    cursor: pointer;
+}
+
+#nav-bar ul li a.nav-link:hover{ 
+    color:#fff;
+}
+
+#nav-bar .nav-item.active .nav-link{
+    color: #fff;
+}
+
+/*--------header-------*/
+
+#main-header .fa-pencil{
+    margin-right: 20px;
+}
+
+/*---------search--------*/
+
+
+
+
+
+
+
+
+/*-------footer-----*/
+
+#footer {
+    background-color: #333333;
+    padding: 50px;
+    margin-top: 30px;
+}
